@@ -1,7 +1,7 @@
 # nexus<b> Install Nexus </b>
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/R1M-NODES/ocean/master/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/R1M-NODES/nexus/master/install.sh)
 ```
 
 Open screen
