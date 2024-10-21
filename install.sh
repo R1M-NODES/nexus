@@ -13,7 +13,7 @@ source <(curl -s https://raw.githubusercontent.com/R1M-NODES/utils/master/rush-i
 
 # Відкриття screen сесії для nexus
 screen -S nexus -dm bash -c "
-  sudo curl https://cli.nexus.xyz/install.sh | sh;
+  sudo curl -s https://cli.nexus.xyz/install.sh | bash -s -- -y;
   exec bash
 "
 
