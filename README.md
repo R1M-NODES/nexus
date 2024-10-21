@@ -4,7 +4,7 @@
 bash <(curl -s https://raw.githubusercontent.com/R1M-NODES/nexus/master/install.sh)
 ```
 
-Open screen
+Screen
 
 ```
 screen -S nexus
