@@ -16,12 +16,6 @@ Run:
 sudo curl https://cli.nexus.xyz/install.sh | sh
 ```
 
-```
-rm -rf ocean
-```
-
 Save Prover ID file
-
-```
 You'll get a prover-id file in /root/.nexus/ representing your unique contribution ID to Prover Node
-```
+
